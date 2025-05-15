@@ -1,18 +1,18 @@
 # medication-reminder-app
 "Never miss a dose with timely alerts and easy tracking!"
 
-Frontend Commands to run the Project:-
-npm install = to install all packages and dependencies
-npm start = to start the project
+## Frontend Commands to run the Project:-
+- npm install = to install all packages and dependencies
+- npm start = to start the project
 
-Backend Commands to run the Project:-
-npm install = to install all packages and dependencies
-nodemon server.js = to start the server
+## Backend Commands to run the Project:-
+- npm install = to install all packages and dependencies
+- nodemon server.js = to start the server
 
-You need to add  .env  file and weite the following lines there:-
-DB = add your mongoose connection string
-JWT_PRIVATE_KEY = add your key
-SALT = provide a value exp. = 4
+## You need to add  .env  file and weite the following lines there:-
+- DB = add your mongoose connection string
+- JWT_PRIVATE_KEY = add your key
+- SALT = provide a value exp. = 4
 
 
 
